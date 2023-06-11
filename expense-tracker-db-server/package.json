@@ -1,0 +1,21 @@
+{
+  "name": "expense-tracker-db-server",
+  "version": "1.0.0",
+  "description": "expense tracker mock db",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json --port 3004",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-server",
+    "db",
+    "api"
+  ],
+  "author": "Abhay Banda",
+  "license": "ISC"
+}

@@ -1,0 +1,60 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2022-04-07",
+      "productName": "Bike Repair",
+      "price": 1000,
+      "payeeName": "Rahul"
+    },
+    {
+      "id": 2,
+      "date": "2022-04-05",
+      "productName": "Movie",
+      "price": 1044,
+      "payeeName": "Rahul"
+    },
+    {
+      "id": 3,
+      "date": "2022-04-01",
+      "productName": "Veggies",
+      "price": 366,
+      "payeeName": "Ramesh"
+    },
+    {
+      "id": 4,
+      "date": "2022-04-02",
+      "productName": "Groceries",
+      "price": 5000,
+      "payeeName": "Ramesh"
+    },
+    {
+      "id": 5,
+      "date": "2022-04-03",
+      "productName": "Restraunt",
+      "price": 1200,
+      "payeeName": "Rahul"
+    },
+    {
+      "date": "2022-04-10",
+      "productName": "Zomato",
+      "price": 600,
+      "payeeName": "Rahul",
+      "id": 6
+    },
+    {
+      "productName": "Swiggy delhivery",
+      "price": 550,
+      "payeeName": "Ramesh",
+      "date": "2023-06-12",
+      "id": 7
+    },
+    {
+      "productName": "saloon",
+      "price": 200,
+      "payeeName": "Rahul",
+      "date": "2023-06-11",
+      "id": 8
+    }
+  ]
+}
